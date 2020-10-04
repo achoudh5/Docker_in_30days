@@ -7,6 +7,13 @@
 
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/achoudh5/Docker_in_30days?color=florescent%20green) ![GitHub issues](https://img.shields.io/github/issues/achoudh5/Docker_in_30days?color=red)
 
+# Change the state of your Issue (keep it professional)
+
+[Join my ZenHub](https://app.zenhub.com/workspaces/hacktoberfest-2020-5f7a0f7702a0990012ca8872/board)
+
+
+[Add Plugin Zenhub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd/related)
+
 # Docker_in_30days
 
 - Do you like teaching? I am making this platform for people who want to spread their knowledge.....
