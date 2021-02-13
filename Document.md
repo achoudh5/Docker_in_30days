@@ -34,6 +34,7 @@ $docker build -t myflaskapp .
 bash of docker
 
 $docker run -it -d -p 5000:5000 myflaskapp
+
 $sudo docker exec -it <container-id> bash
 
 ### STEP7
